@@ -1,0 +1,6 @@
+grocery item
+ salt 
+ sugar
+ rice 
+ wheat 
+ turmeric powder 
